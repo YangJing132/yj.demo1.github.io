@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          编辑 <code>src/App.js</code> and save to reload.
+          编辑 <code>src/App.js</code> and save to 重新加载.
         </p>
         <a
           className="App-link"
